@@ -1,8 +1,6 @@
 # D3-Challenge
 # Data Journalism and D3
 
-Website: https://swati-dontamsetti.github.io/D3-challenge/
-
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
